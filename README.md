@@ -8,4 +8,5 @@ Mobile website for tracking daily macros
 
 
 ## to fix 🚧
-- when switching screen the page doesnt scroll to top
+- when switching screen the page doesn't scroll to top
+- input cell styling
