@@ -7,8 +7,9 @@ Mobile website for tracking daily macros, made with react
 
 ## roadmap
 1. preferences ✅
-2. history 
-3. local storage ✅
+2. local storage ✅
+3. history 
+4. add button under custom macros (recomended adult male and female)
 
 
 ## to fix 🚧
