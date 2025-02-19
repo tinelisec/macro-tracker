@@ -8,7 +8,7 @@ Mobile website for tracking daily macros, made with react
 ## roadmap
 1. preferences ✅
 2. history 
-3. local storage
+3. local storage ✅
 
 
 ## to fix 🚧
