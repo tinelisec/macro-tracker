@@ -3,7 +3,7 @@ Mobile website for tracking daily macros
 
 
 ## acess here
-(tinelisec.github.io/macro-tracker/)
+[URL](https://tinelisec.github.io/macro-tracker/)
 
 ## roadmap
 1. preferences ✅
