@@ -1,6 +1,10 @@
 # macro-tracker
 Mobile website for tracking daily macros
 
+
+## acess here
+tinelisec.github.io/macro-tracker/
+
 ## roadmap
 1. preferences ✅
 2. history 
