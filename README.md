@@ -1,5 +1,5 @@
 # macro-tracker
-Mobile website for tracking daily macros
+Mobile website for tracking daily macros, made with react
 
 
 ## acess here
