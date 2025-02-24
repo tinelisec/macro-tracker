@@ -1,9 +1,16 @@
 # Updates
-
 Seznam izboljšav po vrsti
+## 1.1._ (18/2 - now)
+
+**version 1.1.0** 24/2/2025
+- NEW: logging history menu! 🎉 
+    - vpogled v dnevno dogajanje
+    - možnost brisanja 
+- FIX: naming of logged meals
+- FIX: icorrect page identifier now logs an error
 
 ---
-
+## 1.0._ (18/2 - 23/2)
 **version 1.0.3** 22/2/2025
 - Your meals and daily progress are automatically saved, so you can track your intake over time. Even if you refresh the page, your past meals and today’s data are always available, currently as the user you cannot access that data, that’s comming in the next update 🎉
 - par zbrisanih brezveznih komentarjev
