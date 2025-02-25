@@ -1,6 +1,13 @@
 # Updates
-Seznam izboljšav po vrsti
-## 1.1._ (18/2 - now)
+Seznam izboljšav
+## 1.1._ (18/2 - present)
+
+**version 1.1.1** 25/2/2025
+- FIX: takes yesterdays food logs for macrosDaily
+- NEW: new meals, for now only kcal values
+- added useful comments
+
+---
 
 **version 1.1.0** 24/2/2025
 - NEW: logging history menu! 🎉 
