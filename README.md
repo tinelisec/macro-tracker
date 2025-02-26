@@ -9,8 +9,3 @@ Mobile website for tracking daily macros, made with react
 1. preferences ✅
 2. history ✅
 3. add button under custom macros (recomended adult male and female)
-
-
-## to fix 🚧
-- when switching screen the page doesn't scroll to top
-- input cell styling
