@@ -1,6 +1,11 @@
 # Updates
 Seznam izboljšav
-## 1.1._ (18/2 - present)
+## 1.1 
+
+**version 1.1.2** 2/3/2025
+- FIX: intake goals and tracked macros are now stored in local storage ⚙️
+
+---
 
 **version 1.1.1** 25/2/2025
 - FIX: takes yesterdays food logs for macrosDaily
@@ -17,7 +22,7 @@ Seznam izboljšav
 - FIX: icorrect page identifier now logs an error
 
 ---
-## 1.0._ (18/2 - 23/2)
+## 1.0
 **version 1.0.3** 22/2/2025
 - Your meals and daily progress are automatically saved, so you can track your intake over time. Even if you refresh the page, your past meals and today’s data are always available, currently as the user you cannot access that data, that’s comming in the next update 🎉
 - par zbrisanih brezveznih komentarjev
